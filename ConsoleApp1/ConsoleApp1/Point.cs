@@ -48,49 +48,46 @@ namespace ConsoleApp1
             count++;
         }
         /// <summary>
-        /// 
+        /// метод для возврата значения х
         /// </summary>
-        /// <returns></returns>
+        /// <returns>значение х</returns>
         public double getX()
         {
             return x;
         }
         /// <summary>
-        /// 
+        /// метод для возврата значения y
         /// </summary>
-        /// <returns></returns>
+        /// <returns>значение у</returns>
         public double getY()
         {
             return y;
         }
         /// <summary>
-        /// 
+        /// метод для инициальзации поля х
         /// </summary>
-        /// <param name="x"></param>
+        /// <param name="x">описывающий поле х</param>
         public void setX(double x)
         {
             this.x = x;
         }
         /// <summary>
-        /// 
+        /// метод для инициализации поля у
         /// </summary>
-        /// <param name="y"></param>
+        /// <param name="y">описывающий поле у</param>
         public void setY(double y)
         {
             this.y = y;
         }
         /// <summary>
-        /// 
+        /// метод для вывода координат точки
         /// </summary>
-        /// <returns></returns>
+        /// <returns>значение х и у</returns>
         public override string ToString()
         {
             return $"Координаты точки:{getX():f1}\t{getY():f1}";
         }
-        static void LengthPoints(Point[] points)
-        {
-
-        }
+       
 
 
     }
