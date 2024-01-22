@@ -87,8 +87,14 @@ namespace ConsoleApp1
         {
             return $"Координаты точки:{getX():f1}\t{getY():f1}";
         }
-       
-
+        //public static void LenghtPoints(double x,double y,double x1,double y1)
+        // {
+        //     Console.WriteLine(Math.Sqrt(Math.Pow(x1-x,2)+(Math.Pow(y1-y,2))));
+        // }
+        public static void LenghtPoints(Point p1,Point p2)
+        {
+            Console.WriteLine(Math.Sqrt(Math.Pow(p1.x - p2.x, 2) + (Math.Pow(p1.y - p2.y, 2))));
+        }
 
     }
 }
