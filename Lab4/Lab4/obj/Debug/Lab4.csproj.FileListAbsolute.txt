@@ -1,0 +1,28 @@
+C:\Users\andre\OneDrive\Документы\GitHub\RPM\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\GitHub\RPM\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\GitHub\RPM\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\andre\OneDrive\Документы\GitHub\RPM\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\andre\OneDrive\Документы\GitHub\RPM\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\andre\OneDrive\Документы\GitHub\RPM\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\andre\OneDrive\Документы\GitHub\RPM\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Kab-31-13\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Kab-31-13\Desktop\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Kab-31-13\Desktop\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Kab-31-13\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Kab-31-13\Desktop\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\andre\OneDrive\Рабочий стол\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\andre\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\kab31\OneDrive\Рабочий стол\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\kab31\OneDrive\Рабочий стол\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\kab31\OneDrive\Рабочий стол\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\kab31\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\kab31\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\kab31\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\kab31\OneDrive\Рабочий стол\Lab4\Lab4\obj\Debug\Lab4.pdb
