@@ -1,0 +1,7 @@
+C:\Users\kab31\OneDrive\Рабочий стол\LAB5\bin\Debug\LAB5.exe.config
+C:\Users\kab31\OneDrive\Рабочий стол\LAB5\bin\Debug\LAB5.exe
+C:\Users\kab31\OneDrive\Рабочий стол\LAB5\bin\Debug\LAB5.pdb
+C:\Users\kab31\OneDrive\Рабочий стол\LAB5\obj\Debug\LAB5.csproj.AssemblyReference.cache
+C:\Users\kab31\OneDrive\Рабочий стол\LAB5\obj\Debug\LAB5.csproj.CoreCompileInputs.cache
+C:\Users\kab31\OneDrive\Рабочий стол\LAB5\obj\Debug\LAB5.exe
+C:\Users\kab31\OneDrive\Рабочий стол\LAB5\obj\Debug\LAB5.pdb
