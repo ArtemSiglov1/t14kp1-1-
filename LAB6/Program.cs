@@ -12,13 +12,15 @@ namespace LAB6
         {
             //17)	книга, учебник, словарь;
             //12)	страна, королевство, государство;
-            Country country=new Country("Russia", 17100000);
-            Kingdom kingdom = new Kingdom("Russia", 17100000);
-            Gosud gosud =  Gosud.Init();
-            List<Country> strings=new List<Country>() {country,kingdom,gosud };
-            foreach(var elem in strings)
+            List<Qwe> qwes = new List<Qwe>();
+
+            qwes.Add(Country.Init());
+            qwes.Add(Kingdom.Init());
+            qwes.Add(Gosud.Init());
+            
+            foreach(var q in qwes)
             {
-                Console.WriteLine(elem.ToString());
+                Console.WriteLine($"{q.ToString()}\n{q.SPercent()}");
             }
             Console.ReadLine();
         }

@@ -6,22 +6,26 @@ using System.Threading.Tasks;
 
 namespace LAB6
 {
-    internal class Kingdom:Country
+    internal class Kingdom:Qwe
     {
         public Kingdom() { }
-        public Kingdom(string name,double s):base(name,s) { }
-        public override string Print()
+        public Kingdom(string name,int s):base(name,s) { }
+        public override string ToString()
         {
-            return base.Print();
+            return $"{Name}\n{S}";
         }
-        new static public Kingdom Init()
+        public override double SPercent()
+        {
+            return base.SPercent();
+        }
+         static public Kingdom Init()
         {
             try
             {
-                Console.WriteLine();
+                Console.WriteLine("name");
                 string name = Console.ReadLine();
-                Console.WriteLine();
-                double s = double.Parse(Console.ReadLine());
+                Console.WriteLine("s");
+                int s = int.Parse(Console.ReadLine());
                 return new Kingdom(name, s);
             }
             catch { return Init(); }

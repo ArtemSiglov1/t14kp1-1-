@@ -6,31 +6,31 @@ using System.Threading.Tasks;
 
 namespace LAB6
 {
-    internal class Country
+    internal class Country:Qwe
     {
-        public string Name {  get; set; }
-        public double S {  get; set; }
+       
         public Country() { }
-        public Country(string name)
-        {
-            Name=name;
-        }
-        public Country(string name, double s):this(name) 
+        
+        public Country(string name, int s):base(name,s) 
         {
             S = s;
-        }   
-        public virtual string Print()
+        }
+        public override string ToString()
         {
-            return $"Name:{Name}\nS:{S}";
+            return $"{Name}\n{S}";
+        }
+        public override double SPercent()
+        {
+            return base.SPercent();
         }
         public static Country Init()
         {
             try
             {
-                Console.WriteLine();
+                Console.WriteLine("name");
                 string name = Console.ReadLine();
-                Console.WriteLine();
-                double s = double.Parse(Console.ReadLine());
+                Console.WriteLine("s");
+                int s = int.Parse(Console.ReadLine());
                 return new Country(name, s);
             }
             catch { return Init(); }
