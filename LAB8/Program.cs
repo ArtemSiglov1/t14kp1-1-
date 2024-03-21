@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,8 +11,9 @@ namespace LAB8
     {
         static void Main(string[] args)
         {
-            Patern patern = new Patern();
-            patern.Exam();
+            Exam bilet = new Exam("Siglov Artem Vitaleivich",new DateTime(2007,03,23));
+           bilet.PrintMark();
+            Console.ReadLine();
         }
     }
 }
