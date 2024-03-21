@@ -10,7 +10,6 @@ namespace LAB6
     {
         static void Main(string[] args)
         {
-            //17)	книга, учебник, словарь;
             //12)	страна, королевство, государство;
             List<Qwe> qwes = new List<Qwe>();
 
