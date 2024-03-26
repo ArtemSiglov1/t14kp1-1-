@@ -8,7 +8,7 @@ namespace LAB9
 {
     internal class Konus:Figure
     {
-        //Sп.п=pi*r*L+pi*r^2
+        
         public int R {  get; set; }
         public Konus(int a,int r):base(a)
         {

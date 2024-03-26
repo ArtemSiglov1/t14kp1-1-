@@ -5,3 +5,10 @@ C:\Users\kab31\OneDrive\Рабочий стол\LAB9\obj\Debug\LAB9.csproj.Assem
 C:\Users\kab31\OneDrive\Рабочий стол\LAB9\obj\Debug\LAB9.csproj.CoreCompileInputs.cache
 C:\Users\kab31\OneDrive\Рабочий стол\LAB9\obj\Debug\LAB9.exe
 C:\Users\kab31\OneDrive\Рабочий стол\LAB9\obj\Debug\LAB9.pdb
+C:\Users\Home\Desktop\LAB9\obj\Debug\LAB9.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\LAB9\obj\Debug\LAB9.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\LAB9\obj\Debug\LAB9.exe
+C:\Users\Home\Desktop\LAB9\obj\Debug\LAB9.pdb
+C:\Users\Home\Desktop\LAB9\bin\Debug\LAB9.exe.config
+C:\Users\Home\Desktop\LAB9\bin\Debug\LAB9.exe
+C:\Users\Home\Desktop\LAB9\bin\Debug\LAB9.pdb

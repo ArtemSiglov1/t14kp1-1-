@@ -11,7 +11,7 @@ namespace LAB9
         public int NomKab {  get; set; }
         public Shool() { }
         public Shool(int nomKab) { NomKab = nomKab; }
-        public abstract void SearchPC(List<Shool> n);
+        public abstract void SearchPC(List<PC> n);
 
     }
 }
